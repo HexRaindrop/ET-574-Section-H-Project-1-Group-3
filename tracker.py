@@ -1,3 +1,6 @@
+import data
+from data import apps, screentime, type_app
+
 def add_session():
     print("\n--- Add a new screen time session ---")
     
@@ -15,12 +18,16 @@ def add_session():
             print("Error: Please enter a number bigger than 0.")
         except ValueError:
             print("Error: That's not a valid number. Try again.")
-    
 
     category = input("(Social/School/Entertainment/Other): ").strip()
-    
-  
-   
-   
-    
+    apps.append(name)
+    type_app.append(category)
+    screentime.append(minutes)  
+    save_data()
     print("\nSession added successfully!")
+
+def save_data():
+    with open("data.py", "w") as f:
+        f.write(f"apps = {apps} \nscreentime = {screentime} \ntype_app = {type_app}")
+        
+save_data()

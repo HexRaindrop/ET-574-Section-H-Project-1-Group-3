@@ -1,11 +1,15 @@
+from tracker import add_session, save_data
+from data import apps, screentime, type_app
+
 def add_screen_time_sessons():
-    pass
+    add_session()
 
 def view_summary():
     pass
 
 def view_all_session():
-    pass
+    for i in apps:
+        print(f"{apps[i]}")
 
 def main_loop():
 
