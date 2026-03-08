@@ -5,11 +5,11 @@ def add_screen_time_sessons():
     add_session()
 
 def view_summary():
-    pass
+    print("Summary coming soon")
+
 
 def view_all_session():
-    for i in apps:
-        print(f"{apps[i]}")
+    print("Sessions coming soon")
 
 def main_loop():
 
