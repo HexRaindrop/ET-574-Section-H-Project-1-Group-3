@@ -1,4 +1,4 @@
 ID,Type,Commit#,Status,Description,Reporter,Assignee,Due,Created,Resloved
 1,file,0eab82,done,made main.py file for student A sections,,Mike,, 3-7-26,3-7-26
-2,file,bee066,done,made data.py file to keep parrlel lists,,Mike,,3-8,26,3-8,26
-3,bugfix,bee066,done,fixed bug in tracker.py that didnt update data.py,,Mike,,3-8,26,3-8,26
+2,file,bee066,done,made data.py file to keep parrlel lists,,Mike,,3-8-26,3-8-26
+3,bugfix,bee066,done,fixed bug in tracker.py that didnt update data.py,,Mike,,3-8-26,3-8-26
