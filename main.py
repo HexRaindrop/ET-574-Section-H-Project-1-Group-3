@@ -1,5 +1,4 @@
-from tracker import add_session, save_data
-from data import apps, screentime, type_app
+from tracker import add_session, view_summary, view_all_session
 
 def add_screen_time_sessons():
     add_session()
