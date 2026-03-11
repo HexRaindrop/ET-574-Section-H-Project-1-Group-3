@@ -3,3 +3,4 @@ ID,Type,Commit#,Status,Description,Reporter,Assignee,Due,Created,Resloved
 2,file,bee066,done,made data.py file to keep parrlel lists,,Mike,,3-8-26,3-8-26
 3,bugfix,bee066,done,fixed bug in tracker.py that didnt update data.py,,Mike,,3-8-26,3-8-26
 4,optimization,ac11d0,done, removed a repatative function in main that py to make the code run smother,,Mike,,3-8-26,3-8-26
+5, bug,,incomplet,we need to rewrite the code to not include the f.write,,Mike,3-9-26,,
