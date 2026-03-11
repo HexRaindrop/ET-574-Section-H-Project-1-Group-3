@@ -23,7 +23,7 @@ def add_session():
     apps.append(name)
     type_app.append(category)
     screentime.append(minutes)  
-    save_data()
+    #save_data()
     print("\nSession added successfully!")
 
 def view_summary():
@@ -46,8 +46,8 @@ def view_all_session():
     for i in range(len(apps)):
         print(f"{apps[i]} - {screentime[i]} minutes - {type_app[i]}")  
 
-def save_data():
-    with open("data.py", "w") as f:
-        f.write(f"apps = {apps} \nscreentime = {screentime} \ntype_app = {type_app}")
+#def save_data():
+    #with open("data.py", "w") as f:
+        #f.write(f"apps = {apps} \nscreentime = {screentime} \ntype_app = {type_app}")
         
-save_data()
+#save_data()
