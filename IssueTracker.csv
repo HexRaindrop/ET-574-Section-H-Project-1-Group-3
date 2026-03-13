@@ -3,7 +3,7 @@ ID,Type,Commit#,Status,Description,Reporter,Assignee,Due,Created,Resolved
 2,file,bee066,done,made data.py file to keep parallel lists,Mike,,3-8-26,3-8-26,3-8-26
 3,bugfix,bee066,done,fixed bug in tracker.py that didn't update data.py,Mike,,3-8-26,3-8-26,3-8-26
 4,optimization,ac11d0,done,removed a repetitive function in main.py to make the code run smoother,Mike,,3-8-26,3-8-26,3-8-26
-5,bug,,done,we need to rewrite the code to not include f.write,Mike,,3-13-26,3-9-26,3-11-26
+5,bug,e9c54b,done,we need to rewrite the code to not include f.write,Mike,,3-13-26,3-9-26,3-11-26
 6,file,9179e9,done,tested code for student B,Jordan,,3-7-26,3-7-26,3-7-26
 7,file,e3cc0c0,done,edited code due to small errors,Jordan,,3-7-26,3-7-26,3-7-26
 8,file,ad6c59a,done,fixed minor spelling correction,Jordan,,3-12-26,3-12-26,3-12-26
