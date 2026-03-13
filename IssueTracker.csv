@@ -1,19 +1,9 @@
-ID,Type,Commit#,Status,Description,Reporter,Assignee,Due,Created,Resolved
-1,file,0eab82,done,made main.py file for student A sections,Mike,,3-7-26,3-7-26,3-7-26
-2,file,bee066,done,made data.py file to keep parallel lists,Mike,,3-8-26,3-8-26,3-8-26
-3,bugfix,bee066,done,fixed bug in tracker.py that didn't update data.py,Mike,,3-8-26,3-8-26,3-8-26
-4,optimization,ac11d0,done,removed a repetitive function in main.py to make the code run smoother,Mike,,3-8-26,3-8-26,3-8-26
-5,bug,e9c54b,done,we need to rewrite the code to not include f.write,Mike,,3-13-26,3-9-26,3-11-26
-6,file,9179e9,done,tested code for student B,Jordan,,3-7-26,3-7-26,3-7-26
-7,file,e3cc0c0,done,edited code due to small errors,Jordan,,3-7-26,3-7-26,3-7-26
-8,file,ad6c59a,done,fixed minor spelling correction,Jordan,,3-12-26,3-12-26,3-12-26
-9,file,aa4b9a0,done,renamed Issue Tracker,Kayode,,3-7-26,3-7-26,3-7-26
-10,update,bf749d1,done,updated main.py imports for tracker functions,Kayode,,3-8-26,3-8-26,3-8-26
-11,refactor,e91c0de,done,moved view_summary and view_all_session from main.py to tracker.py,Kayode,,3-8-26,3-8-26,3-8-26
-12,feature,46616a2,done,completed summary statistics with average max and min calculations,Kayode,,3-8-26,3-8-26,3-8-26
-13,feature,a7bb0ea,done,added total minutes calculation to view_summary,Kayode,,3-8-26,3-8-26,3-8-26
-14,feature,3eedcf2,done,added total session count calculation to view_summary,Kayode,,3-8-26,3-8-26,3-8-26
-15,improvement,7d7df5e,done,improved session display to include minutes and category,Kayode,,3-8-26,3-8-26,3-8-26
-16,feature,e29d46f,done,added loop to display stored app names in view_all_session,Kayode,,3-8-26,3-8-26,3-8-26
-17,file,8d2fc6a,done,created placeholder functions for summary and session viewing,Kayode,,3-8-26,3-8-26,3-8-26
-18,fix,e9c54b,done,fixed issue from ID 5,Mike,,3-13-26,3-11-26,3-11-26
+ID,Type,Commit#,Status,Description,Reporter,Assignee,Due,Created,Resloved
+1,file,0eab82,done,made main.py file for student A sections,,Mike,, 3-7-26,3-7-26
+2,file,bee066,done,made data.py file to keep parrlel lists,,Mike,,3-8-26,3-8-26
+3,bugfix,bee066,done,fixed bug in tracker.py that didnt update data.py,,Mike,,3-8-26,3-8-26
+4,optimization,ac11d0,done, removed a repatative function in main that py to make the code run smother,,Mike,,3-8-26,3-8-26
+5, bug,,incomplet,we need to rewrite the code to not include the f.write,,Mike,3-13-26,3-9-26,
+6,file ,complete,9179e9,done,tested code for student b,jordan,3-7-26,3-7-26
+7,file,complet,e3cc0c0,done, had to edit due to samll errors,jordan,3-7-26,3-7-26,
+9,file,complete,ad6c59a,done,fixed minor spelling correction,jordan,3-12,26,,3-12-26
